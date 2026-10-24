@@ -1,1 +1,3 @@
-# whydra-sync-test-public-20261024
+# Whydra synchronization test
+
+Dummy files only.
